@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"title": "My First Blog",
+		"author": "Me",
+		"date": "tomorrow",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+	},
+	{
+		"id": 2,
+		"title": "This is about something else",
+		"author": "Me",
+		"date": "tomorrow",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+	},
+	{
+		"id": 3,
+		"title": "This is a third blog",
+		"author": "Me",
+		"date": "tomorrow",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+	},
+	{
+		"id": 4,
+		"title": "My Fourth Blog",
+		"author": "Me",
+		"date": "tomorrow",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+	},
+	{
+		"id": 5,
+		"title": "My Fifth Blog",
+		"author": "Me",
+		"date": "tomorrow",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+	}
+]
