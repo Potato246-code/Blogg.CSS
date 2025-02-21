@@ -17,7 +17,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<HomePage posts={[...posts]} />} />
+        <Route path="/" element={<HomePage posts={posts} />} />
         <Route path="/profile" element={<ProfilePage />} />
         <Route path="/post/new" element={<NewPostPage />} />
       </Routes>

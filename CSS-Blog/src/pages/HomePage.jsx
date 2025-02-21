@@ -2,8 +2,8 @@ import React from "react"
 import BlogSnippet from "../components/BlogSnippet"
 
 const HomePage = ({ posts }) => {
-	
-	let snippets = posts.map((post) => <BlogSnippet {...post} />)
+
+	let snippets = posts.map((post) => <BlogSnippet {...post} key={post.id} />)
 
 	return (
 		<section id="home" className="section">
