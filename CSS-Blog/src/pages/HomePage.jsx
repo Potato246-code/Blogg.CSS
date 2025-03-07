@@ -1,4 +1,3 @@
-import React from "react"
 import BlogSnippet from "../components/BlogSnippet"
 
 const HomePage = ({ posts }) => {

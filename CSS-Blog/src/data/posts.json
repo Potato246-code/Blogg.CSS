@@ -2,36 +2,36 @@
 	{
 		"id": 1,
 		"title": "My First Blog",
-		"author": "Me",
-		"date": "tomorrow",
-		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
+		"author": "Melissa",
+		"date": "07/03/2025",
+		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec nisl diam. Duis gravida placerat sem, eu pharetra eros blandit sed. Aliquam sit amet lectus efficitur, gravida nulla et, ultrices sapien. Integer ut nulla aliquam, varius nibh vel, egestas ex. Etiam est augue, porta sed libero eu, rutrum volutpat sem. Vestibulum iaculis laoreet nisi convallis blandit. Duis feugiat finibus tincidunt."
 	},
 	{
 		"id": 2,
 		"title": "This is about something else",
-		"author": "Me",
-		"date": "tomorrow",
+		"author": "Melissa",
+		"date": "07/03/2025",
 		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
 	},
 	{
 		"id": 3,
 		"title": "This is a third blog",
-		"author": "Me",
-		"date": "tomorrow",
+		"author": "Melissa",
+		"date": "07/03/2025",
 		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
 	},
 	{
 		"id": 4,
 		"title": "My Fourth Blog",
-		"author": "Me",
-		"date": "tomorrow",
+		"author": "Melissa",
+		"date": "07/03/2025",
 		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
 	},
 	{
 		"id": 5,
 		"title": "My Fifth Blog",
-		"author": "Me",
-		"date": "tomorrow",
+		"author": "Melissa",
+		"date": "07/03/2025",
 		"content": "This is my first blog. I am so happy to be here, my joy is completely unrivaled"
 	}
 ]
