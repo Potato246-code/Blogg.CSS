@@ -11,7 +11,7 @@ const HomePage = ({ posts }) => {
 				<h1 className="title">Latest Post</h1>
 
 				<div>
-					<p>Welcome Isaiah</p>
+					<p>Welcome Melissa</p>
 					<input type="text" className="input" placeholder="Search" />
 				</div>
 			</div>
